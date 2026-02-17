@@ -1,5 +1,14 @@
-# Welcome to my page
-# I'm Gesi Morris-Odubo, Software Developer from Nigeria now living in Canada.
+Welcome to my page
+I'm Gesi Morris-Odubo, Software Developer from Nigeria now living in Canada.
+
+Check out more of what i do: gesimorris.com
+
+## 📊 GitHub Stats
+
+![Gesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesimorris&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesimorris&layout=compact&theme=tokyonight)
+
 
 <!--
 **gesimorris/gesimorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
