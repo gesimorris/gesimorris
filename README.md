@@ -1,26 +1,13 @@
-Welcome to my page
-I'm Gesi Morris-Odubo, Software Developer from Nigeria now living in Canada.
+Welcome to my page!
+I'm Gesi Morris-Odubo, Software Developer from Nigeria🇳🇬 now living in Canada🇨🇦.
 
-Check out more of what i do: gesimorris.com
+Check out more of what i do: https://gesimorris.com
 
-## 📊 GitHub Stats
+## Currently working on
+- Training more image and midi sound pairs for FeelScape
 
-![Gesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesimorris&show_icons=true&theme=tokyonight)
+![Gesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesimorris&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesimorris&layout=compact&theme=tokyonight)
-
-
-<!--
-**gesimorris/gesimorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+Email: gesiray@gmail.com 
+LinkedIn: https://linkedin.com/gesimorris
