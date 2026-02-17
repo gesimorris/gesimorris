@@ -9,12 +9,6 @@ Check out more of what i do: https://gesimorris.com
 - Training more image and midi sound pairs for FeelScape
 
 
-![Gesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesimorris&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
 
 Connect with me:
 
