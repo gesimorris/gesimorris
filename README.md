@@ -12,7 +12,6 @@ Check out more of what i do: https://gesimorris.com
 - SecureAI open-source contributions: https://gesilogbook.hashnode.dev/universal-bypass-vulnerabilities
 - Arc Technologies Hackathon 2025: https://gesilogbook.hashnode.dev/arc-tech-hackathon-2025
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesimorris&layout=compact&theme=vision-pro)
 
 Connect with me:
 
