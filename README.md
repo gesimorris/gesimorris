@@ -7,6 +7,7 @@ Check out more of what i do: https://gesimorris.com
 
 ### Currently working on
 - Training more image and midi sound pairs for FeelScape
+- Working on Links for Kamloops Art Party
   
 ### Some stuff I've written
 - SecureAI open-source contributions: https://gesilogbook.hashnode.dev/universal-bypass-vulnerabilities
