@@ -5,10 +5,14 @@ I'm Gesi Morris-Odubo, Software Developer who grew up in Nigeria🇳🇬 and Dub
 
 Check out more of what i do: https://gesimorris.com
 
-## Currently working on
+### Currently working on
 - Training more image and midi sound pairs for FeelScape
+  
+### Some stuff I've written
+- SecureAI open-source contributions: https://gesilogbook.hashnode.dev/universal-bypass-vulnerabilities
+- Arc Technologies Hackathon 2025: https://gesilogbook.hashnode.dev/arc-tech-hackathon-2025
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesimorris&layout=compact&theme=vision-pro)
 
 Connect with me:
 
