@@ -9,7 +9,7 @@ Check out more of what i do: https://gesimorris.com
 - Training more image and midi sound pairs for FeelScape
 - Working on Links for Kamloops Art Party
   
-### Some stuff I've written
+### More Contributions
 - SecureAI open-source contributions: https://gesilogbook.hashnode.dev/universal-bypass-vulnerabilities
 - Arc Technologies Hackathon 2025: https://gesilogbook.hashnode.dev/arc-tech-hackathon-2025
 
