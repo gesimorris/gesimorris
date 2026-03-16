@@ -4,10 +4,6 @@ I'm Gesi Morris-Odubo, Software Developer who grew up in Nigeria🇳🇬 and Dub
 
 
 Check out more of what i do: https://gesimorris.com
-
-### Currently working on
-- Training more image and midi sound pairs for FeelScape
-- Working on Links for Kamloops Art Party
   
 ### More Contributions
 - SecureAI open-source contributions: https://gesilogbook.hashnode.dev/universal-bypass-vulnerabilities
